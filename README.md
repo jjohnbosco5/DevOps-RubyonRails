@@ -1,4 +1,4 @@
 # DevOps 
 
-Sample Rails App 
+Sample Rails App for DevOps Engr
 
